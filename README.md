@@ -15,3 +15,6 @@ git clone https://github.com/bugswriter/tuxi.git
 cd merd
 cp merd $HOME/.local/bin/merd
 ```
+
+## Usage
+
