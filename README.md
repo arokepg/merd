@@ -1,7 +1,7 @@
 # merd
-merd - Linux quick search engine
+merd - GNU/Linux quick search engine
 
-merd is a Linux quick google search engine that will get you instant answer right on the terminal
+merd is a GNU/Linux quick internet search engine that will get you instant answer right on the terminal
 
 ## Dependencies
 * pup - CLI tool for processing HTML
